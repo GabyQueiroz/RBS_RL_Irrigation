@@ -72,7 +72,6 @@ This file executes the comparison between the Rule-Based System (RBS) and Reinfo
 - **Steps**:
   1. **Data Input**: Insert the daily irrigation values provided by the *RBS* and *RL* methods into the `ITN` matrix.
   2. **Simulation in AquaCrop**: The file runs Python code to simulate the impact of irrigation strategies on productivity.
-  3. **Results Comparison**: Analyzes simulated data to compare the efficiency of each method in terms of productivity and water usage.
 
 - **Requirements**:
   - Ensure the irrigation values are in the correct format and match the daily inputs required by the AquaCrop model.
