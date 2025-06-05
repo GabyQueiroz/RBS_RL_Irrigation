@@ -1,3 +1,8 @@
+# This code was published in:
+# G. de Queiroz Pereira, D. Paulo Bertrand Renaux, and A. E. Lazzaretti,
+# "Comparative Analysis of Reinforcement Learning and Rule-Based System Approaches for Irrigation in Horticulture,"
+# IEEE Access, vol. 13, pp. 90418–90432, 2025. DOI: 10.1109/ACCESS.2025.3572288
+
 # Project Structure
 
 ## **1. File: `RBS.py`**
